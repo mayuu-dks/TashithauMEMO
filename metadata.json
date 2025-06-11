@@ -1,0 +1,6 @@
+{
+  "name": "数字を足しちゃうメモ",
+  "description": "入力されたテキスト内の数字を自動的に検出し、合計値を計算するメモアプリケーションです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

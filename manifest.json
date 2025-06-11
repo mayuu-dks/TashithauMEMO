@@ -1,0 +1,24 @@
+
+{
+  "name": "数字を足しちゃうメモ",
+  "short_name": "数足メモ",
+  "description": "入力されたテキスト内の数字を自動的に検出し、合計値を計算するメモアプリケーションです。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eadfca",
+  "theme_color": "#9ec3bc",
+  "icons": [
+    {
+      "src": "./icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
